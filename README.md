@@ -6,7 +6,7 @@
 </p>
 A GPU accelerated ThreeJs visualization of a particle swarm influenced by curly noise
 
-[![Demo](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/showcase/5HRMi4FNLEid4OW22mj2dQ)
+[![Demo](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/showcase/qGDDiOice0yq8JG_wDNp2A)
 
 Clone
 ```
